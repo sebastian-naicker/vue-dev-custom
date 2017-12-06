@@ -21,7 +21,7 @@ const config = {
   output: {
     path: path.resolve(__dirname, 'dist'),
     publicPath: '/',
-    filename: 'assets/js/[name].js',
+    filename: 'assets/js/[name].js'
   }
 };
 
