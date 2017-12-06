@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="nav has-shadow">
+    <nav class="navbar has-shadow">
       <div class="container">
         <a href="/">
           <img src="http://bit.ly/vue-img"
@@ -20,4 +20,6 @@
     </footer>
   </div>
 </template>
-<style lang="scss"></style>
+<style lang="scss">
+  @import '~bulma';
+</style>
